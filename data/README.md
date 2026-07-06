@@ -39,7 +39,7 @@ python -u mis_convert.py \
     --save_path mis/er_700_800_train.npz
 ```
 
-In the MIS ER training set, sample `115672` should be deleted because a valid maximal independent set was not found. Run the following Python code:
+In the MIS ER training set, sample `115672` should be deleted because its `found_mis` flag is `False`. Run the following Python code:
 ```
 import json
 import numpy as np
