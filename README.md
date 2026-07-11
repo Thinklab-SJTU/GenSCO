@@ -17,7 +17,7 @@ cd lib && make
 
 ## Data
 
-All datasets can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1eyRkLda-y6VLCgpw0Tfsyw?pwd=fd59). For other details, please refer to `data` folder.
+All datasets can be downloaded from [Hugging Face](https://huggingface.co/datasets/Rick242420/MaskCO) or [Baidu Netdisk](https://pan.baidu.com/s/1eyRkLda-y6VLCgpw0Tfsyw?pwd=fd59). For other details, please refer to `data` folder.
 
 ## Checkpoints
 Checkpoints can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1hJCAvDy6AkAjslcqCnAJ08ouuNVGXRoH?usp=sharing). To evaluate them, run the scripts in the `scripts/eval` directory.

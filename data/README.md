@@ -1,6 +1,6 @@
 # Data
 
-All datasets can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1eyRkLda-y6VLCgpw0Tfsyw?pwd=fd59). Below we provide instructions for converting the data into the required format.
+All datasets can be downloaded from [Hugging Face](https://huggingface.co/datasets/Rick242420/MaskCO) or [Baidu Netdisk](https://pan.baidu.com/s/1eyRkLda-y6VLCgpw0Tfsyw?pwd=fd59). Below we provide instructions for converting the data into the required format.
 
 **TSP**
 
